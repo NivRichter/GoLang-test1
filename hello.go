@@ -5,9 +5,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/gothinkster/golang-gin-realworld-example-app/items"
-	"github.com/gothinkster/golang-gin-realworld-example-app/common"
-	"./users"
+	"github.com/NivRichter/GoLang-test1/items"
+	"github.com/NivRichter/GoLang-test1/common"
+	"github.com/NivRichter/GoLang-test1/users"
 	"github.com/jinzhu/gorm"
 )
 

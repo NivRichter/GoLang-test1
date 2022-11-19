@@ -1,7 +1,7 @@
 package users
 
 import (
-	"github.com/gothinkster/golang-gin-realworld-example-app/common"
+	"github.com/NivRichter/GoLang-test1/common"
 	"github.com/gin-gonic/gin"
 )
 

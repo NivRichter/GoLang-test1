@@ -3,7 +3,7 @@ package users
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/gothinkster/golang-gin-realworld-example-app/common"
+	"github.com/NivRichter/GoLang-test1/common"
 )
 
 type ProfileSerializer struct {

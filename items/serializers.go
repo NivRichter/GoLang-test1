@@ -2,7 +2,7 @@ package items
 
 import (
 	"github.com/gosimple/slug"
-	"github.com/gothinkster/golang-gin-realworld-example-app/users"
+	"github.com/NivRichter/GoLang-test1/users"
 	"github.com/gin-gonic/gin"
 )
 

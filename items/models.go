@@ -3,8 +3,8 @@ package items
 import (
 	_ "fmt"
 	"github.com/jinzhu/gorm"
-	"github.com/gothinkster/golang-gin-realworld-example-app/common"
-	"github.com/gothinkster/golang-gin-realworld-example-app/users"
+	"github.com/NivRichter/GoLang-test1/common"
+	"github.com/NivRichter/GoLang-test1/users"
 	"strconv"
 )
 
